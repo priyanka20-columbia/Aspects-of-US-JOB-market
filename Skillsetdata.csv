@@ -1,0 +1,58 @@
+﻿Category,Count,,,,,,Total Count,%age,,,
+SCIENTIST,2914,,,,,Job Type,10629,,,,
+ANALYST,3042,,,,,SCIENTIST,2914,56%,,,
+PYTHON,3154,,,,,ANALYST,3042,,,,
+SQL,3784,,,,,,,,,Skills,Count
+JAVA,1172,,,,,Row Labels,Count of Filtered_JobLocation,%age,,SQL,3784
+SCALA,921,,,,,New York,1147,19.39%,,PYTHON,3154
+EXCEL,2985,,,,,California,908,15.35%,,EXCEL,2985
+HADOOP,846,,,,,Texas,406,6.87%,,MACHINE LEARNING,2355
+SPARK,1020,,,,,Georgia,314,5.31%,,R,2311
+LINUX,180,,,,,Massachusetts,246,4.16%,,TABLEAU,1333
+TABLEAU,1333,,,,,Florida,238,4.02%,,JAVA,1172
+SAS,1114,,,,,Michigan,201,3.40%,,SAS,1114
+HIVE,475,,,,,Minnesota,184,3.11%,,SPARK,1020
+ORACLE,433,,,,,Arizona,156,2.64%,,DATA VISUALIZATION,949
+PERL,188,,,,,Tennessee,146,2.47%,,SCALA,921
+MYSQL,184,,,,,New Jersey,129,2.18%,,HADOOP,846
+MATLAB,283,,,,,Missouri,107,1.81%,,AWS,719
+HTML,99,,,,,Virginia,106,1.79%,,STATISTICAL ANALYSIS,689
+TENSORFLOW,444,,,,,Connecticut,105,1.78%,,HIVE,475
+SPSS,459,,,,,Ohio,102,1.72%,,SPSS,459
+MONGODB,89,,,,,Alabama,95,1.61%,,TENSORFLOW,444
+MACHINE LEARNING,2355,,,,,Washington,95,1.61%,,ORACLE,433
+STATISTICAL ANALYSIS,689,,,,,Maryland,91,1.54%,,MATLAB,283
+DATA VISUALIZATION,949,,,,,Colorado,82,1.39%,,PERL,188
+R,2311,,,,,Pennsylvania,67,1.13%,,MYSQL,184
+AWS,719,,,,,Illinois,67,1.13%,,LINUX,180
+,,,,,,Wisconsin,65,1.10%,,HTML,99
+,,,,,,Kansas,64,1.08%,,MONGODB,89
+,,,,,,Indiana,61,1.03%,,,
+,,,,,,South Carolina,57,0.96%,,,
+,,,,,,Delaware,57,0.96%,,,
+,,,,,,North Carolina,55,0.93%,,,
+,,,,,,Kentucky,49,0.83%,,,
+,,,,,,Nebraska,46,0.78%,,,
+,,,,,,Arkansas,45,0.76%,,,
+,,,,,,Oregon,44,0.74%,,,
+,,,,,,Iowa,43,0.73%,,,
+,,,,,,Utah,40,0.68%,,,
+,,,,,,Rhode Island,37,0.63%,,,
+,,,,,,New Hampshire,34,0.57%,,,
+,,,,,,Maine,34,0.57%,,,
+,,,,,,Louisiana,34,0.57%,,,
+,,,,,,Oklahoma,31,0.52%,,,
+,,,,,,Nevada,22,0.37%,,,
+,,,,,,Montana,19,0.32%,,,
+,,,,,,West Virginia,15,0.25%,,,
+,,,,,,Vermont,15,0.25%,,,
+,,,,,,Idaho,15,0.25%,,,
+,,,,,,New Mexico,11,0.19%,,,
+,,,,,,Hawaii,10,0.17%,,,
+,,,,,,South Dakota,6,0.10%,,,
+,,,,,,Alaska,6,0.10%,,,
+,,,,,,North Dakota,4,0.07%,,,
+,,,,,,Wyoming,2,0.03%,,,
+,,,,,,Mississippi,1,0.02%,,,
+,,,,,,(blank),,,,,
+,,,,,,Grand Total,5914,,,,
